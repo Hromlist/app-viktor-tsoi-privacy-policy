@@ -12,13 +12,9 @@ parties.
 
 Links to privacy policies of third party service providers used in the app:
 
-<b>Google Play Services</b>
+<b>Google Play Services</b>    https://www.google.com/policies/privacy
 
-https://www.google.com/policies/privacy
-
-<b>AdMob</b>
-
-https://support.google.com/admob/answer/6128543
+<b>AdMob</b>                   https://support.google.com/admob/answer/6128543
 
 <b>2. Sharing Your Information</b>
 
