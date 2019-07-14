@@ -8,9 +8,9 @@ disclosure of Personal Information if anyone decided to use this Service.
 
 The app uses advertising (and in app payments) to make revenue. The app uses third party
 libraries for advertising which may collect and share personal information with third
-parties.\n\n
+parties.
 
-Links to privacy policies of third party service providers used in the app:\n\n
+Links to privacy policies of third party service providers used in the app:
 
 <b>Google Play Services</b>
 https://www.google.com/policies/privacy
