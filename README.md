@@ -12,9 +12,9 @@ parties.
 
 Links to privacy policies of third party service providers used in the app:
 
-<b>Google Play Services</b> https://www.google.com/policies/privacy
+- Google Play Services https://www.google.com/policies/privacy
 
-<b>AdMob</b> https://support.google.com/admob/answer/6128543
+- AdMob https://support.google.com/admob/answer/6128543
 
 <b>2. Sharing Your Information</b>
 
@@ -48,15 +48,15 @@ cookie information (after 18 months)
 
 <b>Online resources:</b>
 
-<b>Privacy Policy</b> https://www.google.com/policies/technologies/ads
+- Privacy Policy https://www.google.com/policies/technologies/ads
 
-<b>Opt out</b> https://www.google.com/settings/ads
+- Opt out https://www.google.com/settings/ads
 
-<b>Service Information</b> https://privacy.google.com/businesses/adsservices
+- Service Information https://privacy.google.com/businesses/adsservices
 
-<b>Partner policy</b> https://policies.google.com/technologies/partner-sites
+- Partner policy https://policies.google.com/technologies/partner-sites
 
-<b>Ad technology providers</b> https://support.google.com/admob/answer/9012903
+- Ad technology providers https://support.google.com/admob/answer/9012903
 
 <b>3.2 Google Play Services</b>
 
@@ -81,9 +81,9 @@ and ads.
 
 <b>Online resources:</b>
 
-<b>Google Terms of Service</b> https://policies.google.com/terms
+- Google Terms of Service https://policies.google.com/terms
 
-<b>Google Privacy Policy</b> https://policies.google.com/privacy
+- Google Privacy Policy https://policies.google.com/privacy
 
 <b>4. Security</b>
 
@@ -113,7 +113,7 @@ actions.
 
 The only official channel for distribution of this app are:
 
-<b>Google Play Store</b> https://play.google.com
+- Google Play Store https://play.google.com
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
 This privacy policy is effective to distribution made on official channel only.
