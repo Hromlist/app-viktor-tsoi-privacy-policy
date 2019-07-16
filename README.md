@@ -16,6 +16,8 @@ Links to privacy policies of third party service providers used in the app:
 
 - AdMob https://support.google.com/admob/answer/6128543
 
+- Firebase Analytics https://firebase.google.com/policies/analytics
+
 <b>2. Sharing Your Information</b>
 
 The developer will share personal information with third parties only in the ways that are
