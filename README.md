@@ -1,3 +1,5 @@
+Privacy Policy
+
 Developer built the Виктор Цой: Песенник app as an Ad Supported app. This
 app is provided by at no cost and is intended for use as is:
 
