@@ -20,6 +20,8 @@ Links to privacy policies of third party service providers used in the app:
 
 - Firebase Analytics https://firebase.google.com/policies/analytics
 
+- MyTarget https://legal.my.com/us/mytarget/privacy
+
 <b>2. Sharing Your Information</b>
 
 The developer will share personal information with third parties only in the ways that are
