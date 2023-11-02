@@ -22,6 +22,8 @@ Links to privacy policies of third party service providers used in the app:
 
 - MyTarget https://legal.my.com/us/mytarget/privacy
 
+- Yandex https://yandex.com/legal/confidential
+
 <b>2. Sharing Your Information</b>
 
 The developer will share personal information with third parties only in the ways that are
